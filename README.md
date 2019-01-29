@@ -1,11 +1,11 @@
 <p align="center">
-  <img alt="Logo" src="https://github.com/CourseNotesBTH/DV1587/raw/master/logo.png">
+  <img alt="Logo" src="https://github.com/CourseNotesBTH/DV1590/raw/master/logo.png">
 </p>
 
-DV1587 - Database Engineering
+DV1590 - Network Security 1 (CCNAS)
 ======
 
-Course notes and the like for DV1587 - Database Engineering
+Course notes and the like for DV1590 - Network Security 1 (CCNAS)
 
 [More courses](https://github.com/CourseNotesBTH) <br />
 See also [Programming Courses at BTH](https://github.com/ProgrammingCoursesBTH)
@@ -37,10 +37,10 @@ There are some different type of files that you may come across in each course n
 
 | File name | Labels | Description |
 | --------- | :----: | ----------- |
-| Course notes.md | ⚠️  🇸🇪  | Course notes from lectures held in 2018. Requires Typora or any other Markdown & MathJax compatible editor |
-| Course notes.pdf | ⚠️  🇸🇪  | Rendered version of the same file |
-| Revision notes.md | 📝  🇸🇪 | Revision notes based on earlier exams. Requires Typora or any other Markdown & MathJax compatible editor |
-| Revision notes.pdf | 📝  🇸🇪 | Rendered version of the same file |
+| Course notes.md |  🇬🇧  | Course notes from lectures held in 2018. Requires Typora or any other Markdown & MathJax compatible editor |
+| Course notes.pdf |  🇬🇧  | Rendered version of the same file |
+| Revision notes.md | 📝  🇬🇧 | Revision notes based on earlier exams. Requires Typora or any other Markdown & MathJax compatible editor |
+| Revision notes.pdf | 📝  🇬🇧 | Rendered version of the same file |
 
 # Purpose of the repository
 <a name="purpose"></a>
